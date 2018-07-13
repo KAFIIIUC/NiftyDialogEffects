@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NiftyDialogEffects</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="costomview">I am custom view</string>
+</resources>
